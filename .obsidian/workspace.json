@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Despensas/Procedimiento.md",
+                "file": "APK/Video Key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedimiento"
+              "title": "Video Key"
             }
           }
         ]
@@ -192,6 +192,7 @@
   "active": "9ddc65461d29928c",
   "lastOpenFiles": [
     "Configuramos/Usuario.mdenc",
+    "Despensas/Procedimiento.md",
     "APK/Video Key.md",
     "APK/Barcodescanner.md",
     "APK/Comandos Importantes.md",
@@ -199,7 +200,6 @@
     "APK/Device Externo.md",
     "APK/Firma APK.mdenc",
     "APK/Quitar comprobador versiones.md",
-    "Despensas/Procedimiento.md",
     "Despensas",
     "Configuramos",
     "GetImage.png",
