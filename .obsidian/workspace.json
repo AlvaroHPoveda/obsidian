@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "50396b1083029d6c",
+        "id": "0f03c32b4cd3ae99",
         "type": "tabs",
         "children": [
           {
-            "id": "50c9bee423399f71",
+            "id": "a71f16b277db0f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APK/Comandos Importantes.md",
+                "file": "Configuramos/Usuario.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Importantes"
+              "title": "Usuario"
+            }
+          },
+          {
+            "id": "d6f8390383d52034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuramos/Usuario.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Usuario"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +199,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "50c9bee423399f71",
+  "active": "d6f8390383d52034",
   "lastOpenFiles": [
+    "Despensas/Procedimiento.md",
+    "Configuramos/Usuario.md",
+    "Despensas",
+    "Configuramos",
+    "APK/Quitar comprobador versiones.md",
+    "APK/Video Key.md",
+    "APK/Firma APK.md",
+    "APK/Device Externo.md",
+    "APK/Barcodescanner.md",
+    "APK/Comandos install.md",
+    "APK/Comandos Importantes.md",
+    "GetImage.png",
     "obsidian/README.md",
     "obsidian",
-    "GetImage.png",
-    "APK/Comandos Importantes.md",
     "Sin título 2.canvas",
     "Sin título 1.canvas",
     "Sin título.canvas",
