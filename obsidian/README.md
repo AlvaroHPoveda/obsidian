@@ -1,1 +1,0 @@
-# Mi Vault de Obsidian
